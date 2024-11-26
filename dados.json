@@ -1,0 +1,16 @@
+[
+    {
+      "linkImagem": "https://static.poder360.com.br/2024/09/Meme-Cadeira-Datena-Marcal-4-16-setembro-2024.png",
+      "dataCadastro": "dataCadastro 1",
+      "titulo": "titulo 1",
+      "likes": 28,
+      "id": "1"
+    },
+    {
+      "linkImagem": "https://i.kym-cdn.com/entries/icons/mobile/000/031/257/truck.jpg",
+      "dataCadastro": "dataCadastro 2",
+      "titulo": "titulo 2",
+      "likes": 11,
+      "id": "2"
+    }
+  ]
